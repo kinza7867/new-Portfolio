@@ -1,30 +1,30 @@
-# 🚀 Kinza Ali – Full-Stack Mobile Developer Portfolio
+# Kinza Ali – Full-Stack Mobile Developer Portfolio
 
 A modern, responsive, and animated personal portfolio website showcasing my skills, projects, and experience as a **Full-Stack Mobile Developer**.  
 Designed with a premium glass-morphism UI, smooth animations, and performance-focused structure.
 
 ---
 
-## 🌐 Live Preview
+## Live Preview
 > Deploy using **GitHub Pages**, **Netlify**, or **Vercel**
 
 ---
 
-## ✨ Features
+## Features
 
-- 🎨 **Modern Dark UI** with Neon Accent Theme  
-- 📱 **Fully Responsive** (Mobile, Tablet & Desktop)
-- 🔥 **Smooth Animations** using AOS & Typed.js
-- 🧠 **Skills & Services Showcase**
-- 💼 **Real Projects with GitHub Links**
-- 🎥 **YouTube Project Demo Slider**
-- 📄 **Downloadable Resume & Certificates**
-- 📬 **Working Contact Form (FormSubmit AJAX)**
-- ⚡ **Fast & Lightweight**
+-  **Modern Dark UI** with Neon Accent Theme  
+-  **Fully Responsive** (Mobile, Tablet & Desktop)
+-  **Smooth Animations** using AOS & Typed.js
+-  **Skills & Services Showcase**
+-  **Real Projects with GitHub Links**
+-  **YouTube Project Demo Slider**
+-  **Downloadable Resume & Certificates**
+-  **Working Contact Form (FormSubmit AJAX)**
+-  **Fast & Lightweight**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - HTML5  
@@ -41,7 +41,7 @@ Designed with a premium glass-morphism UI, smooth animations, and performance-fo
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```bash
 portfolio/
